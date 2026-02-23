@@ -6,3 +6,8 @@ int main() { //mulai
     cout << "Masukan Panjang :";
     cin >> p;
 
+    //langkah 3
+    cout << "Masukan Lebar :";
+    cin >> l;
+
+    
