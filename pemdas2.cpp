@@ -5,4 +5,6 @@ int main()
 {
     //variabel lokal
     int umur;
-    
+    umur = 20;
+
+   
