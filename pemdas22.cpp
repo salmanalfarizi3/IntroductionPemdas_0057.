@@ -10,4 +10,6 @@ int main() { //mulai
     cout << "Masukan Lebar :";
     cin >> l;
 
-    
+    //langkah 4
+    luas = p * l;
+
